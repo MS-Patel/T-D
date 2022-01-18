@@ -3974,7 +3974,7 @@ text-align: right;
 --------------------------------------------------------------*/
 .cta-section, .cta-section-s2 {
   background-color: #0a172b;
-  padding: 65px 0 75px;
+  padding: 15px 0 15px;
 }
 
 .cta-section h2, .cta-section-s2 h2 {
@@ -4237,7 +4237,7 @@ text-align: right;
 --------------------------------------------------------------*/
 .fun-fact-section {
   background-color: #0a172b;
-  padding: 80px 0 90px;
+  padding: 15px 0 15px;
 }
 
 @media (max-width: 991px) {
